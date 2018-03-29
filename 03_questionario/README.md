@@ -5,15 +5,11 @@ A criptografia assimétrica, no entanto, é mais segura, uma vez que se utiliza 
 
 
 3- Algoritmos de chaves simetricas:
-
 3DES: O Triplo Data Encryption Standard 
-
 AES (Advanced Encryption Standard – Padrão de Criptografia Avançada) – Anunciado no final de 2001, o AES foi escolhido para ser o novo padrão de criptografia adotado pelo governo americano.
-
 IDEA (International Data Encryption Algorithm­ – Algoritmo Internacional de Criptografia de Dados) – É um algoritmo que segue a mesma estrutura do DES, criado por James Massey e Xuejia Lai.
 
 Algoritmos de chaves assimetricas:
-
 RSA (Rivest, Shamir e Adleman) – Algoritmo criado pelos professores Ron Rivest, Adi Shamir e Len Adleman do MIT (Massachusetts Institute of Technology). É considerado um dos algoritmos mais seguros e utilizados atualmente e funciona por meio da utilização de chaves públicas e privadas.
 
 04- O uso de criptografia simétrica e assimétrica juntas, hoje em dia é bem comum, principalmente quando se quer enviar grande quantidade de dados que devem ser confidenciais. Utiliza-se a chave simétrica para encriptar os dados que vão ser enviados, depois utiliza-se chave assimétrica para criptografar a chave simétrica que será enviada. Algumas aplicações de armazenamento em nuvem se utilizam deste método, mas ele pode ser usado de diversas formas, uma vez que é muito mais seguro sem prejuízos quanto a velocidade de encriptação.
