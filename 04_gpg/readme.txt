@@ -6,4 +6,4 @@ No exercicio de gpg fiz todos os topicos a seguir, segui o tutoriaal, mas com ap
 3- Editei minha chave
 4- Compartilhei a chave
 5- Criptografei uma mensagem e envia por email para o Wagner Luis e recebe dele uma mensagem criptografada para Decriptografar 
-6- Fiz o processo de confimar a confiança em alguns colegas.
+6- Fiz o processo de confirmar a confiança em alguns colegas.
