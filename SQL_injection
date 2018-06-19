@@ -1,0 +1,2 @@
+Pratica concluida.
+Nessa pratica pode observar a questao da vunerabilidade do bd de um site , onde com simples consultas sql podemos descobrir  todas as informações de um usuario e apartir disso acessar a pagina si passando  pelo usario , sendo assim possivel faxer modificaçoes nas informações disponiveis.
